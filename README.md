@@ -1,1 +1,1 @@
-Week 3. Decision trees. 
+Week 3. Decision trees. KNN 
